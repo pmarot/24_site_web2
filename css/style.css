@@ -1,16 +1,13 @@
 @import url(knacss.css);
 
-header{
-    height: 350px;
-    background-image: url("../img/index_fond.png");
-    background-size: cover;
-} 
-
-#header p{
-    color: black;
+.flex-container{
+    display: flex;
 } 
 
 
+.container{
+    display: flex;
+} 
 
 
 
