@@ -1,5 +1,38 @@
 @import url(knacss.css);
 
+header{
+    height: 350px;
+    background-image: url("../img/index_fond.png");
+    background-size: cover;
+} 
+
+#header p{
+    color: black;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* @author : Prénom NOM */
 /* @date : 25/12/2016 */
 /* @bugfix : erreur à régler */
